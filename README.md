@@ -45,7 +45,7 @@ The USGS provides earthquake data in a number of different formats, updated ever
 * Using Visual Studio Code for coding and data visualizations
 * Web browser to show data visualizations (Google Chrome used but coudl be Mozilla or another)
 * Use index to initiate data visualization
-* Use app file in static folder to understand code for application
+* Use logic.js file in static folder to understand code for application
 
 ### Installing
 
@@ -53,9 +53,9 @@ The USGS provides earthquake data in a number of different formats, updated ever
 
 ## Help
 
-* Use console.log inside of your JavaScript code to see what your data looks like at each step.
+* Refer to the [Leaflet Javascript Library](https://leafletjs.com/) for specific handling of mapping functions
 
-* Refer to the Plotly.js documentationLinks to an external site. when building the plots.
+* Refer to [CSS Styles website](https://www.w3schools.com/html/html_css.asp) to fully understand style for formatting
 
 ## Authors
 
